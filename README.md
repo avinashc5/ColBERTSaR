@@ -145,4 +145,12 @@ Search can be run single-process, on a single node with `torchrun` (each rank ha
 
 ## Citation
 
-Paper TBD &mdash; this section will be filled in once the arXiv preprint is up.
+```bibtex
+@inproceedings{sigir2026colbertsar,
+	title={ColBERTSaR: Sparsified ColBERT Index via Product Quantization},
+	author={Eugene Yang and Andrew Yates and Dawn Lawrie and James Mayfield and Saron Samuel and Rohan Jha},
+	booktitle={Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR) (Short Paper) (Accepted)},
+	year={2026},
+	url={https://arxiv.org/abs/2606.05568}
+}
+```
